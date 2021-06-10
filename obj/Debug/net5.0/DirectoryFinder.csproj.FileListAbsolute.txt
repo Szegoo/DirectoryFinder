@@ -1,0 +1,16 @@
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\DirectoryFinder.exe
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\DirectoryFinder.deps.json
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\DirectoryFinder.runtimeconfig.json
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\DirectoryFinder.runtimeconfig.dev.json
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\DirectoryFinder.dll
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\ref\DirectoryFinder.dll
+C:\Users\sakac\Desktop\DirectoryFinder\bin\Debug\net5.0\DirectoryFinder.pdb
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.csprojAssemblyReference.cache
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.AssemblyInfoInputs.cache
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.AssemblyInfo.cs
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.csproj.CoreCompileInputs.cache
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.dll
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\ref\DirectoryFinder.dll
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.pdb
+C:\Users\sakac\Desktop\DirectoryFinder\obj\Debug\net5.0\DirectoryFinder.genruntimeconfig.cache
